@@ -254,3 +254,4 @@ class TamasUngiTest(ScriptedLoadableModuleTest):
 
   def test_TamasUngi1(self):
     print 'Tamas'
+    print 'something else'
